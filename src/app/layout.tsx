@@ -19,7 +19,7 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en" className={`${geist.variable}`}>
-      <main className="flex w-full bg-white">
+      <main className="flex w-full bg-blue-300">
         <h2>IT_3B</h2>
         </main> 
         
